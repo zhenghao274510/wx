@@ -1,0 +1,12 @@
+{
+  "usingComponents":{
+    "van-tabs":"/static/vant/tabs/index",
+    "Toast":"/static/vant/toast/index",
+    "van-tab":"/static/vant/tab/index",
+    "van-pull-refresh":"/static/vant/tabs/index",
+    "van-list":"/static/vant/collapse/index"
+   
+   
+  }
+
+}

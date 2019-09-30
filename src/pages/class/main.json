@@ -1,0 +1,11 @@
+{
+  "usingComponents":{
+    "van-tabs":"/static/vant/tabs/index",
+    "van-tab":"/static/vant/tab/index",
+    "van-loading":"/static/vant/loading/index",
+    "van-popup":"/static/vant/popup/index"
+   
+   
+  }
+
+}
