@@ -228,7 +228,7 @@ export default {
     display: flex;
     flex-direction: column;
     background: #60c42e;
-    padding: 10px 0.2rem 0;
+    padding: .1rem 0.1rem 0;
     box-sizing: border-box;
 
     .wrapper {
@@ -239,12 +239,12 @@ export default {
 
       .xiaoxi {
         position: relative;
-        width: 1rem;
-        height: 1rem;
+        width: 40px;
+        height:40px;
 
         img {
-          width: 1rem;
-          height: 1rem;
+          width: 40px;
+          height:40px;
         }
 
         .xiaob {
@@ -283,8 +283,8 @@ export default {
            
 
           .imgs {
-            width: 1.6rem;
-            height: 1.6rem;
+            width: 1.12rem;
+            height: 1.12rem;
             font-size:0;
             img {
               width: 100%;
@@ -300,10 +300,10 @@ export default {
       width: 100%;
       background: #fff;
       position: absolute;
-      top: 3rem;
+      top: 2.4rem;
       left: 0;
       border-radius: 8px;
-      padding: 0.2rem 0;
+      padding: 0.2rem;
       box-sizing: border-box;
 
       .top-head {
@@ -356,7 +356,7 @@ export default {
         padding: 0.15rem 0 0 0;
 
         li {
-          margin-bottom: 0.5rem;
+          margin-bottom: 0.2rem;
           display: flex;
           flex-direction: column;
           align-items: center;
